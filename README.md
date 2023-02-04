@@ -57,9 +57,7 @@
   </a>
 </p>
 
-<div id="spanish-content">
-  Contenido en español
-</div>
+## Spanish
 
 # 💻 Tech Stack:
 
