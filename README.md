@@ -1,9 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
 
-##### CONNECT WITH ME ✍️
+
 
 <p align="center">
+  Elige el idioma 👀
   <a href="#english">
     <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/gb.svg" alt="English" width="32" height="32">
   </a>
@@ -12,6 +13,8 @@
   </a>
 </p>
 
+
+##### CONNECT WITH ME ✍️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvilio/)
 
 <p align="left">
