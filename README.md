@@ -13,6 +13,14 @@
   </a>
 </p>
 
+<h2 id="english">English</h2>
+
+content
+
+<h2 id="spanish">Español</h2>
+
+... your Spanish content ...
+
 
 ##### CONNECT WITH ME ✍️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvilio/)
