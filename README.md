@@ -13,22 +13,55 @@
   </a>
 </p>
 
+<p align="center">
+ Elige el idioma 👀
+</p>
+<p align="center">
+  <a href="#english" id="english-link">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/gb.svg" alt="English" width="32" height="32">
+  </a>
+  <a href="#spanish" id="spanish-link">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/es.svg" alt="Spanish" width="32" height="32">
+  </a>
+</p>
 
-<div id="content">Contenido</div>
+
+<div id="english-content" style="display: none;">
+  Contenido en inglés
+</div>
+
+
+
+
+
+
+
+
+
+<div id="spanish-content">
+  Contenido en español
+</div>
+
 
 <script>
-  const englishLink = document.querySelector("a[href='#english']");
-  const spanishLink = document.querySelector("a[href='#spanish']");
-  const content = document.querySelector("#content");
+  const englishLink = document.querySelector("#english-link");
+  const spanishLink = document.querySelector("#spanish-link");
+  const englishContent = document.querySelector("#english-content");
+  const spanishContent = document.querySelector("#spanish-content");
 
-  englishLink.addEventListener("click", function() {
-    content.innerHTML = "Content";
+  englishLink.addEventListener("click", function(event) {
+    event.preventDefault();
+    englishContent.style.display = "block";
+    spanishContent.style.display = "none";
   });
 
-  spanishLink.addEventListener("click", function() {
-    content.innerHTML = "Contenido";
+  spanishLink.addEventListener("click", function(event) {
+    event.preventDefault();
+    englishContent.style.display = "none";
+    spanishContent.style.display = "block";
   });
 </script>
+
 
 
 
