@@ -3,7 +3,14 @@
 
 ##### CONNECT WITH ME ✍️
 
-🇪🇸
+<p align="center">
+  <a href="#english">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/gb.svg" alt="English" width="32" height="32">
+  </a>
+  <a href="#spanish">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/es.svg" alt="Spanish" width="32" height="32">
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvilio/)
 
