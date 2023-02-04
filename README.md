@@ -13,39 +13,22 @@
   </a>
 </p>
 
-<h2 id="english">English</h2>
 
-
-
-
-<button id="english-btn">English</button>
-<button id="spanish-btn">Español</button>
-
-<div id="english-content" style="display: none;">
-  <!-- Contenido en inglés aquí -->
-</div>
-
-<div id="spanish-content">
-  <!-- Contenido en español aquí -->
-</div>
+<div id="content">Contenido</div>
 
 <script>
-  const englishBtn = document.querySelector("#english-btn");
-  const spanishBtn = document.querySelector("#spanish-btn");
-  const englishContent = document.querySelector("#english-content");
-  const spanishContent = document.querySelector("#spanish-content");
+  const englishLink = document.querySelector("a[href='#english']");
+  const spanishLink = document.querySelector("a[href='#spanish']");
+  const content = document.querySelector("#content");
 
-  englishBtn.addEventListener("click", function() {
-    englishContent.style.display = "block";
-    spanishContent.style.display = "none";
+  englishLink.addEventListener("click", function() {
+    content.innerHTML = "Content";
   });
 
-  spanishBtn.addEventListener("click", function() {
-    englishContent.style.display = "none";
-    spanishContent.style.display = "block";
+  spanishLink.addEventListener("click", function() {
+    content.innerHTML = "Contenido";
   });
 </script>
-
 
 
 
