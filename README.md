@@ -38,29 +38,11 @@
 
 
 
-<div id="spanish-content">
-  Contenido en español
-</div>
 
 
-<script>
-  const englishLink = document.querySelector("#english-link");
-  const spanishLink = document.querySelector("#spanish-link");
-  const englishContent = document.querySelector("#english-content");
-  const spanishContent = document.querySelector("#spanish-content");
 
-  englishLink.addEventListener("click", function(event) {
-    event.preventDefault();
-    englishContent.style.display = "block";
-    spanishContent.style.display = "none";
-  });
 
-  spanishLink.addEventListener("click", function(event) {
-    event.preventDefault();
-    englishContent.style.display = "none";
-    spanishContent.style.display = "block";
-  });
-</script>
+
 
 
 
@@ -74,6 +56,10 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
 </p>
+
+<div id="spanish-content">
+  Contenido en español
+</div>
 
 # 💻 Tech Stack:
 
