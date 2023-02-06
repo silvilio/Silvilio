@@ -1,10 +1,10 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hello! Mi Name es Silvilio
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hello! I'm Silvilio 👋
 
 
 
 
 
-##### CONNECT WITH ME ✍️
+##### CONNECT WITH ME ⚡
 <p align="left">
   <a href="https://www.linkedin.com/in/silvilio/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
