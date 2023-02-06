@@ -6,8 +6,6 @@
 
 
 ##### CONNECT WITH ME ✍️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvilio/)
-
 <p align="left">
   <a href="https://www.linkedin.com/in/silvilio/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
