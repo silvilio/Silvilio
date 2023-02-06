@@ -1,7 +1,10 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hello! I'm Silvilio 👋
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hello!
 
 
-
+<h4 align="center">
+I'm Silvilio 👋 <br>
+Data Scientist | Data Analyst 
+</h4>
 
 
 ##### CONNECT WITH ME ⚡
