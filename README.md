@@ -12,6 +12,11 @@ Data Scientist | Data Analyst
   <a href="https://www.linkedin.com/in/silvilio/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
+ 
+  <a href="https://linktr.ee/silvilio">
+    <img src="https://brandemia.org/contenido/subidas/2022/06/copia-de-1200-x-670--1200x670.png" height="35px" style="margin: 5px;" />
+  </a>
+  
 </p>
 
 
